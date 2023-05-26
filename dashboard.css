@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    justify-content: space-between;
+    padding-top: 1rem;
+    /* margin-inline: 5rem; */
+    margin-right: 5rem;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+}
+.btn{
+    display: flex;
+}
